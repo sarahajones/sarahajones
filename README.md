@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @sarahajones, I'm a DPhil student in Experimental Psychology
+- 👋 Hi, I’m @sarahajones, I'm a post-doc at Columbia University
+- ✨ My background is in psychology and the behavioural sciences
 - 👀 I’m interested in decision making and human cognition
 - 🌱 I’m currently learning to improve my code efficiency and all about simulating data
-- 💞️ I’m looking to collaborate on large-scale replication efforts
+- 💞️ I’m always ooking to collaborate on large-scale replication efforts
 - 📫 Find me over on twitter @sarahaj95
 
 <!---
