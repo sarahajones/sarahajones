@@ -2,7 +2,7 @@
 - ✨ My background is in psychology and the behavioural sciences
 - 👀 I’m interested in decision making and human cognition
 - 🌱 I’m currently learning to improve my code efficiency and all about simulating data
-- 💞️ I’m always ooking to collaborate on large-scale replication efforts
+- 💞️ I’m always looking to collaborate on large-scale replication efforts
 - 📫 Find me over on twitter @sarahaj95
 
 <!---
