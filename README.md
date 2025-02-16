@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sarahajones, I'm a post-doc at Columbia University
+- 👋 Hi, I’m @sarahajones, I'm a research scientist at Columbia University
 - ✨ My background is in psychology and the behavioural sciences
 - 👀 I’m interested in decision making and human cognition
 - 🌱 I’m currently learning to improve my code efficiency and all about simulating data
