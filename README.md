@@ -3,7 +3,7 @@
 - 👀 I’m interested in decision making and human cognition
 - 🌱 I’m currently learning to improve my code efficiency and all about simulating data
 - 💞️ I’m always looking to collaborate on large-scale replication efforts
-- 📫 Find me over on twitter @sarahaj95
+- 📫 Find me over on bsky @sarahaj95.bsky.social
 
 <!---
 sarahajones/sarahajones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
